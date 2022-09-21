@@ -20,7 +20,7 @@ It will look through the name, using OCR to write it down, and just check on twi
 
 ![Screenshot (574)](https://user-images.githubusercontent.com/76143641/191546903-22b04a3e-7ce2-4da4-a668-7601199d50d4.png)
   ## How to use:
-  It is really simple. You just need to turn the script on, enter a match, during the buying phase, click tab to see all of the opponent usernames that are nicely packaged together and press (-) as a predetermined number or you could change it into what ever you want. Wait about 1 second, recieve the output, and continue on playing!
+  It is really simple. You just need to turn the script on, enter a match, during the buying phase, click tab to see all of the opponent usernames that are nicely packaged together and press (-) as a predetermined key or you could change it into what ever you want. Wait about 1 second, recieve the output, and continue on playing!
 
   ## Chances for development
   
