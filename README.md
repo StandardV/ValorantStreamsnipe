@@ -2,7 +2,7 @@
   Screenshot game name,double check with twitch to see if the account's streaming (Requirements: Pytesseract or related OCR, pyautogui)
 
 ## Probability 
-  First off, let set aside the moral or ethical issue, I made this just because. Base on probability, the chances of meeting a twitch streamer in your match is really high in weekend or in holiday simply because everyone in their freetime could just start the stream and play, won't hurt that much to performance or anything that are related.
+  First off, let's set aside the moral or ethical issue, I made this just because. Base on probability, the chances of meeting a twitch streamer in your match is really high in weekend or in holiday simply because everyone in their freetime could just start the stream and play, won't hurt that much to performance or anything that are related.
   
   In total, I've played 5 matches in the weekend and 5 matches in the weekday to rule out the difference. 
       I've met up to 4 streamers out of 5 spike rush matches in total in the weekend (count both team)
