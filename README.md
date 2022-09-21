@@ -13,4 +13,5 @@
   
   ## What this script do:
   Here is an example of what part that of the screen that it take screen shots (You can look at anything or even moving meanwhile, but it's best if you look at a dark surface while doing so, about 20% better):
+  
 ![Tesseract](https://user-images.githubusercontent.com/76143641/191545830-dcbdcd89-d731-433b-b82a-52d232c7d35c.png)
