@@ -1,5 +1,5 @@
 # Valorant Stream Snipe
-  Screenshot game name,double check with twitch to see if the account's streaming (Requirement, Pytesseract or related OCR, pyautogui)
+  Screenshot game name,double check with twitch to see if the account's streaming (Requirements: Pytesseract or related OCR, pyautogui)
 
 ## Probability 
   First off, let set aside the moral or ethical issue, I made this just because. Base on probability, the chances of meeting a twitch streamer in your match is really high in weekend or in holiday simply because everyone in their freetime could just start the stream and play, won't hurt that much to performance or anything that are related.
