@@ -18,7 +18,21 @@
 
 It will look through the name, using OCR to write it down, and just check on twitch if the account is there and streaming. If account's not available or not streaming it will say Unavailable, else, it'd say Online
 
-![Screenshot (574)](https://user-images.githubusercontent.com/76143641/191546903-22b04a3e-7ce2-4da4-a668-7601199d50d4.png)
+![Screenshot (574)](https://user-images.githubusercontent.com/76143641/191546903-22b04a3e-7ce2-4da4-a668-7601199d50d4.png)]
+
+Just to prove that it's working:
+Here's Lee stream:
+
+![Screenshot (576)](https://user-images.githubusercontent.com/76143641/191553340-3c1ce992-ce74-4ee1-9855-eb84706086f5.png)
+
+Input:
+
+![Tesseract](https://user-images.githubusercontent.com/76143641/191553582-356bf356-e4d8-472b-ba5e-ce56e39397b9.png)
+
+Output:
+
+![Screenshot (575)](https://user-images.githubusercontent.com/76143641/191553675-d5c47f99-a896-45f1-ae79-464d0e64232e.png)
+
   ## How to use:
   It is really simple. You just need to turn the script on, enter a match, during the buying phase, click tab to see all of the opponent usernames that are nicely packaged together and press (-) as a predetermined key or you could change it into what ever you want. Wait about 1 second, recieve the output, and continue on playing!
 
